@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/game-of-thrones-app/static/css/main.3e172071.chunk.css",
+    "main.js": "/game-of-thrones-app/static/js/main.8f6d72e8.chunk.js",
+    "main.js.map": "/game-of-thrones-app/static/js/main.8f6d72e8.chunk.js.map",
+    "runtime-main.js": "/game-of-thrones-app/static/js/runtime-main.b42bfbc7.js",
+    "runtime-main.js.map": "/game-of-thrones-app/static/js/runtime-main.b42bfbc7.js.map",
+    "static/css/2.858c4db3.chunk.css": "/game-of-thrones-app/static/css/2.858c4db3.chunk.css",
+    "static/js/2.f2271e6a.chunk.js": "/game-of-thrones-app/static/js/2.f2271e6a.chunk.js",
+    "static/js/2.f2271e6a.chunk.js.map": "/game-of-thrones-app/static/js/2.f2271e6a.chunk.js.map",
+    "index.html": "/game-of-thrones-app/index.html",
+    "static/css/2.858c4db3.chunk.css.map": "/game-of-thrones-app/static/css/2.858c4db3.chunk.css.map",
+    "static/css/main.3e172071.chunk.css.map": "/game-of-thrones-app/static/css/main.3e172071.chunk.css.map",
+    "static/js/2.f2271e6a.chunk.js.LICENSE.txt": "/game-of-thrones-app/static/js/2.f2271e6a.chunk.js.LICENSE.txt",
+    "static/media/error.4a53f279.jpg": "/game-of-thrones-app/static/media/error.4a53f279.jpg",
+    "static/media/app.css": "/game-of-thrones-app/static/media/got.73180ce7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b42bfbc7.js",
+    "static/css/2.858c4db3.chunk.css",
+    "static/js/2.f2271e6a.chunk.js",
+    "static/css/main.3e172071.chunk.css",
+    "static/js/main.8f6d72e8.chunk.js"
+  ]
+}
